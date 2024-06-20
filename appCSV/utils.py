@@ -1,5 +1,3 @@
-import 
-
 def get_population(country):
     population = {}
     population['2022'] = country['2022 Population']
